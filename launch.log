@@ -1,0 +1,16 @@
+2026-08-02 13:53:48 >>> 启动命令: D:\Scripts\python.exe -m streamlit run app/streamlit_app.py --server.headless true --server.port 8501
+2026-08-02 13:53:48 已自动打开浏览器: http://localhost:8501 (成功)
+2026-08-02 13:56:23 >>> 启动命令: D:\Scripts\python.exe -m streamlit run app/streamlit_app.py --server.headless true --server.port 8501
+2026-08-02 13:56:23 >>> 启动命令: D:\Scripts\python.exe -m streamlit run app/streamlit_app.py --server.headless true --server.port 8501
+2026-08-02 13:56:25 已自动打开浏览器: http://localhost:8501 (成功)
+2026-08-02 13:56:25 已自动打开浏览器: http://localhost:8501 (成功)
+2026-08-02 22:35:41 >>> 启动命令: D:\Scripts\python.exe -m streamlit run app/streamlit_app.py --server.headless true --server.port 8501
+2026-08-02 22:35:41 已自动打开浏览器: http://localhost:8501 (成功)
+2026-08-02 22:37:34 >>> 启动命令: D:\Scripts\python.exe -m streamlit run app/streamlit_app.py --server.headless true --server.port 8501
+2026-08-02 22:37:36 已自动打开浏览器: http://localhost:8501 (成功)
+2026-08-28 23:30:32 >>> 启动命令: D:\Scripts\python.exe -m streamlit run app/streamlit_app.py --server.headless true --server.port 8501
+2026-08-28 23:30:32 >>> 启动命令: D:\Scripts\python.exe -m streamlit run app/streamlit_app.py --server.headless true --server.port 8501
+2026-08-28 23:30:33 >>> 启动命令: D:\Scripts\python.exe -m streamlit run app/streamlit_app.py --server.headless true --server.port 8501
+2026-08-28 23:30:42 已自动打开浏览器: http://localhost:8501 (成功)
+2026-08-28 23:30:42 已自动打开浏览器: http://localhost:8501 (成功)
+2026-08-28 23:30:42 已自动打开浏览器: http://localhost:8501 (成功)
